@@ -1,3 +1,7 @@
+<<<<<<< Updated upstream
 FP 12
 WS 19
 KR 16
+=======
+FP 12 Robimy napad na fabryke jaboli
+>>>>>>> Stashed changes
